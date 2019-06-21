@@ -9,7 +9,7 @@ Requirements:
 - yarn
 
 ```
-$ npm install -g @quasar/cli
+$ npm install -g @quasar/cli # optional
 $ git clone %_YOUR-FORK_%
 $ cd app
 $ yarn
