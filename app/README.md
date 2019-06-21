@@ -17,7 +17,7 @@ $ quasar dev
 $ quasar build
 ```
 
-The global @quasar/cli is not strictly necessary to run theese
+The global @quasar/cli is not strictly necessary to run quasar commands.
 
 Please visit https://quasar.dev for information about the Quasar Framework.
 
