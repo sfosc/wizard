@@ -1,0 +1,35 @@
+{
+  "@quasar/testing": {
+    "harnesses": [
+      "unit-jest"
+    ]
+  },
+  "@quasar/testing-unit-jest": {
+    "babel": "babelrc",
+    "options": [
+      "scripts"
+    ]
+  },
+  "@quasar/icon-genie": {
+    "minify_dev": "pngquant",
+    "minify_build": "zopfli",
+    "cordova": {
+      "background_color": "#000074",
+      "splashscreen_type": "pure"
+    },
+    "build_always": false,
+    "__internal": {
+      "dev": {
+        "spa": {
+          "iconHash": "4715cf0a3442dbf8f6ceac4697befb81"
+        }
+      },
+      "build": {
+        "spa": {
+          "iconHash": "4715cf0a3442dbf8f6ceac4697befb81"
+        }
+      }
+    }
+  },
+  "@quasar/qmarkdown": {}
+}
