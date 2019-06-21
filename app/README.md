@@ -17,7 +17,9 @@ $ quasar dev
 $ quasar build
 ```
 
-Please visit https://quasar.dev for information about the Framework.
+The global @quasar/cli is not strictly necessary to run theese
+
+Please visit https://quasar.dev for information about the Quasar Framework.
 
 This is where you can find out about how to use markdown:
 - https://quasarframework.github.io/app-extension-qmarkdown/docs
