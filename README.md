@@ -1,5 +1,7 @@
 # SFOSC wizard
 
+[![Greater Good Affirmation](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
+
 This is a subproject by SFOSC.
 The same [Social Contract](https://github.com/sfosc/sfosc/blob/master/SOCIAL_CONTRACT.md)
 and governance applies as can be found in the [main repository](https://github.com/sfosc/sfosc).
